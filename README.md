@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ivan-Apa
 - 👀 I’m interested in technologies and sports.
-- 🌱 I’m currently learning Linux, Git and Dockers.
 - 📫 How to reach me ...
 
 <!---
